@@ -1,0 +1,17 @@
+.empty-div {
+    border: 1px solid #e9ecef;
+    border-left-color: red;
+    border-left-width: 3px;
+    padding: 5px 10px;
+}
+
+.dashboardcode-bsmultiselect ul.form-control>li.badge {
+    color: black;
+}
+
+.div-info {
+    background-color: rgb(52, 139, 52);
+    border-radius: 15%;
+    color: #fff;
+    font-weight: 550;
+}
